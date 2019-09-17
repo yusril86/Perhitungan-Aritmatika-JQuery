@@ -1,5 +1,5 @@
 # Perhitungan-Aritmatika-JQuery
 Perhitungan Mengggunakan Drag and Drop Menggunakan :
 - Jquery Ui
-- Jquery
+- Jquery.
  Pehitungan ini menngunakan Metode statis
